@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CustomSessionName-2020.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Plugins\Project\Custom\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Plugins\Project\Custom\Project\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\Module.CustomSessionName.cpp.obj"
+"F:\Plugins\Project\Custom\Project\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\Module.CustomSessionName.gen.cpp.obj"
+"F:\Plugins\Project\Custom\Project\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\PCLaunch.rc.res"
+/OUT:"F:\Plugins\Project\Custom\Project\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\UE4Editor-CustomSessionName-2020.lib"

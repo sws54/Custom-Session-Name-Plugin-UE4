@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CustomSessionName-9483.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Games\SnakeRoyal\Source\SnakeRoyal\Intermediate\Build\Win64\SnakeRoyalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Games\SnakeRoyal\Source\SnakeRoyal\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\Module.CustomSessionName.cpp.obj"
+"F:\Games\SnakeRoyal\Source\SnakeRoyal\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\Module.CustomSessionName.gen.cpp.obj"
+"F:\Games\SnakeRoyal\Source\SnakeRoyal\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\PCLaunch.rc.res"
+/OUT:"F:\Games\SnakeRoyal\Source\SnakeRoyal\Plugins\CustomSessionName\Intermediate\Build\Win64\UE4Editor\Development\CustomSessionName\UE4Editor-CustomSessionName-9483.lib"
